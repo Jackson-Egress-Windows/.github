@@ -2,7 +2,7 @@
 
 ## About Us
 
-At Jackson Egress Windows, we're dedicated to pioneering new technologies to revolutionize sales and installations. Our mission is to push the boundaries of what's possible, leveraging cutting-edge advancements to streamline processes, enhance customer experiences, and drive growth.
+At Jackson Egress Windows, we're dedicated to pioneering new technologies to revolutionize sales and installations. Our mission is to push the boundaries of what's possible, leveraging cutting-edge advancements to streamline processes, enhance customer experiences, and drive growth. Feel free to fork this <a href="https://github.com/Jackson-Egress-Windows/Egress-Window-Installation-Video-Feed">Egress Window Installation Video Feed</a> and use it for your business.
 
 ## What We Do
 - **Basement Egress Window System Sales And Installations**: We are one of the initial pioneers of turn-key basement egress window system installations.
