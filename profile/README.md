@@ -23,7 +23,7 @@ Are you passionate about pushing the boundaries of technology and driving real-w
 
 ## Get in Touch
 
-Have questions, ideas, or collaboration opportunities? We'd love to hear from you! Reach out to us via [email](mailto:contact@yourcompany.com) or connect with us on [LinkedIn](https://www.linkedin.com/company/yourcompany/).
+Have questions, ideas, or collaboration opportunities? We'd love to hear from you! Reach out to us via [email](mailto:mail@egresswindows.app) or connect with us on [Facebook](https://facebook.com/JacksonEgressWindows).
 
 Let's shape the future together!
 
