@@ -5,8 +5,9 @@
 At Jackson Egress Windows, we're dedicated to pioneering new technologies to revolutionize sales and installations. Our mission is to push the boundaries of what's possible, leveraging cutting-edge advancements to streamline processes, enhance customer experiences, and drive growth.
 
 ## What We Do
+- **Basement Egress Window System Sales And Installations**: We are one of the initial pioneers of turn-key basement egress window system installations.
 
-- **Innovative Sales Solutions**: We develop state-of-the-art sales tools and platforms designed to empower sales teams, optimize workflows, and maximize revenue generation.
+- **Innovative Basement Egress Window Product Quality Control Solutions**: We develop state-of-the-art tools and methodology for ensuring basement egress window products meet industry standards.
   
 - **Next-Gen Installation Techniques**: We're at the forefront of modern installation methodologies, integrating advanced technologies to simplify installations, improve efficiency, and deliver superior results.
 
@@ -26,4 +27,5 @@ Have questions, ideas, or collaboration opportunities? We'd love to hear from yo
 
 Let's shape the future together!
 
-![Company Logo](link-to-your-logo.png)
+![appjedi-jackson-android-72](https://github.com/Jackson-Egress-Windows/.github/assets/143988320/0248d8ae-a292-4882-ab8f-11021eae9789)
+
